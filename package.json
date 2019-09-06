@@ -1,0 +1,75 @@
+{
+  "_from": "capacitor-datepicker",
+  "_id": "capacitor-datepicker@0.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-6iZ3sxZs/thn05z8Qn0G9sJYtPC2w70O8D6yF4d1/02zhVEv2iWmpDKa+0w8Xk6l91qMNumyWwUV4gMWLte1xg==",
+  "_location": "/capacitor-datepicker",
+  "_phantomChildren": {
+    "tslib": "1.9.3"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "capacitor-datepicker",
+    "name": "capacitor-datepicker",
+    "escapedName": "capacitor-datepicker",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/capacitor-datepicker/-/capacitor-datepicker-0.0.2.tgz",
+  "_shasum": "3996f5377ba5ef694b0b64642917a4d3af71e6f0",
+  "_spec": "capacitor-datepicker",
+  "_where": "/Users/sshipsey/Documents/sidearm/ionic4",
+  "author": {
+    "name": "Osei Fortune"
+  },
+  "bundleDependencies": false,
+  "capacitor": {
+    "ios": {
+      "src": "ios"
+    },
+    "android": {
+      "src": "android"
+    }
+  },
+  "dependencies": {
+    "@capacitor/core": "latest"
+  },
+  "deprecated": false,
+  "description": "Datepicker for capacitor",
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  },
+  "files": [
+    "dist/",
+    "ios/",
+    "android/",
+    "CapacitorDatepicker.podspec"
+  ],
+  "homepage": "https://github.com/triniwiz/capacitor-datepicker#readme",
+  "keywords": [
+    "capacitor",
+    "plugin",
+    "native"
+  ],
+  "license": "MIT",
+  "main": "dist/esm/index.js",
+  "name": "capacitor-datepicker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/triniwiz/capacitor-datepicker.git"
+  },
+  "scripts": {
+    "build": "npm run clean && tsc",
+    "clean": "rm -rf ./dist",
+    "prepublishOnly": "npm run build",
+    "watch": "tsc --watch"
+  },
+  "types": "dist/esm/index.d.ts",
+  "version": "0.0.2"
+}
