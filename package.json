@@ -59,7 +59,7 @@
   ],
   "license": "MIT",
   "main": "dist/esm/index.js",
-  "name": "capacitor-datepicker",
+  "name": "@sidearm/capacitor-datepicker",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sshipsey/capacitor-datepicker.git"
