@@ -26,7 +26,7 @@
   "_spec": "capacitor-datepicker",
   "_where": "/Users/sshipsey/Documents/sidearm/ionic4",
   "author": {
-    "name": "Osei Fortune"
+    "name": "Steve Shipsey"
   },
   "bundleDependencies": false,
   "capacitor": {
@@ -51,7 +51,7 @@
     "android/",
     "CapacitorDatepicker.podspec"
   ],
-  "homepage": "https://github.com/triniwiz/capacitor-datepicker#readme",
+  "homepage": "https://github.com/sshipsey/capacitor-datepicker#readme",
   "keywords": [
     "capacitor",
     "plugin",
@@ -62,7 +62,7 @@
   "name": "capacitor-datepicker",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/triniwiz/capacitor-datepicker.git"
+    "url": "git+https://github.com/sshipsey/capacitor-datepicker.git"
   },
   "scripts": {
     "build": "npm run clean && tsc",
