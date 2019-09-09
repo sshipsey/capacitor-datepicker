@@ -49,7 +49,7 @@
     "dist/",
     "ios/",
     "android/",
-    "CapacitorDatepicker.podspec"
+    "SidearmCapacitorDatepicker.podspec"
   ],
   "homepage": "https://github.com/sshipsey/capacitor-datepicker#readme",
   "keywords": [
@@ -71,5 +71,5 @@
     "watch": "tsc --watch"
   },
   "types": "dist/esm/index.d.ts",
-  "version": "0.0.6"
+  "version": "0.0.7"
 }
